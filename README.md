@@ -23,7 +23,7 @@ Participated in several national level hackathons, got selected in top 10 for ha
 | Project | Module | Description | Tech Stack |
 |--------|--------|-------------|------------|
 | Smart Green Corridor System | App | Emergency ambulance management system with Authority, Driver, and Hospital dashboards. Includes priority service assignment and coordination. | HTML, CSS, JavaScript, MySQL |
-| Smart Green Corridor System | Simulation | Shortest route simulation module for emergency vehicle navigation and visualization. | Python, Algorithms |
+| Smart Green Corridor System | Simulation | Shortest route simulation module for emergency vehicle navigation and visualization. | Python, React, Node.js, Algorithms |
 
 ---
 
